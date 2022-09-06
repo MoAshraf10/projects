@@ -1,0 +1,5 @@
+URL01:https://github.com/MoAshraf10/Udacityprog.git
+URL02:http://udapeople-c0d8599.s3-website-us-east-1.amazonaws.com
+URL03:http://d1257szriatnh.cloudfront.net
+URL04:http://54.163.123.191:3030/api/status
+URL05:http://ec2-34-230-18-132.compute-1.amazonaws.com:9090/targets
